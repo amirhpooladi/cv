@@ -1,1 +1,8 @@
-
+  body{
+            background-color: powderblue;
+        }
+        hr{
+           border-style:dotted none none;
+           border-color:"grey";
+            border-width:"15px";
+        }
