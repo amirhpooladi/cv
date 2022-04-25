@@ -18,3 +18,7 @@ h1{
 #social{
   color:grey;
 }
+.circular
+{
+  border-radius:100%;
+}
