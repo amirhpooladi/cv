@@ -7,11 +7,12 @@
     text-decoration:underline;
     }
   .cloud1{
-    position:relative;
+    position:absolute;
     left:800px;
+    top:50;
     }
   .cloud2{
-     position:relative;
+     position:absolute;
     left:200px;
   }
   .mountain{
