@@ -26,3 +26,8 @@ h1{
 {
   text-align:center;
 }
+.cloud
+{
+  position:relative;
+  left:200px;
+}
