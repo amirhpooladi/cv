@@ -1,6 +1,22 @@
+.topcontainer{
   body{
    background-color:#E4F9F5;
-    text-align:center;
+   text-align:center;
+    }
+  span{
+    text-decoration:underline;
+    }
+  .cloud1{
+    position:relative;
+    left:800px;
+    }
+  .cloud2{
+     position:relative;
+    left:200px;
+  }
+  .mountain{
+  }
+    
         }
         hr{
            border-style:dotted none none;
