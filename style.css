@@ -21,8 +21,15 @@ h1{
 .circular
 {
   border-radius:100%;
+  position:absolute;
 }
 .centering
 {
   text-align:center;
+}
+.imm
+{
+  width:30px;
+  height:30px;
+  position:absolute;
 }
