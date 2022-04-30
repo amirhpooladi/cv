@@ -34,4 +34,23 @@ body{
     height: 200px;
     width: 200px;
     position: relative;
+    margin:50px;
+}
+hr
+{
+border:dotted 6px;
+color:red;
+width:5%;
+border-bottom: none;
+margin:100px auto;
+}
+.dd
+{
+    position: relative;
+    right:300px;
+    margin:50px auto;
+}
+.run
+{
+    background-color: aqua;
 }
