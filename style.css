@@ -69,4 +69,12 @@ h3
 {
     font-size:2rem;
 }
+p:first-letter
+{
+    display: block;
+    margin: 1px;
+    color:rgb(13, 1, 1);
+    font-size: 2rem;
+}
+
 
