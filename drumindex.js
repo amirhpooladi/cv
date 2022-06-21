@@ -30,7 +30,7 @@ function makeSund(key){
    break;
 
    case "a":
-    var kick=new Audio('kick-bass.mp3');
+    var kick=new Audio('hoyamp3');
 kick.play();
 break;
 
